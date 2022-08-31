@@ -1,4 +1,4 @@
-package main
+package multisig
 
 import (
 	"github.com/MixinNetwork/mixin/crypto"

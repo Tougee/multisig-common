@@ -1,4 +1,4 @@
-package main
+package multisig
 
 import (
 	"encoding/hex"
